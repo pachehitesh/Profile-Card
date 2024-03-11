@@ -1,15 +1,16 @@
 # Profile-Card
 Create visually appealing profile cards with our Dynamic Profile Card Generator for your website. Display user or organization information in a compact and easy-to-read format, including an image, name, title, and short description. Perfect for team pages, about pages, or any section requiring individual or organizational details.
 
-Why Use This:
+𝗪𝗵𝘆 𝗨𝘀𝗲 𝗧𝗵𝗶𝘀:
 Enhance your online presence by seamlessly incorporating personalized profile cards using HTML, CSS, and JavaScript. Avoid the need to navigate various social media accounts – showcase information directly on your website.
 
-What's Included:
+𝗪𝗵𝗮𝘁'𝘀 𝗜𝗻𝗰𝗹𝘂𝗱𝗲𝗱:
+
 Step-by-step guides on creating stunning profile cards, utilizing HTML, CSS, and JavaScript. The generator offers a compact and visually appealing format for personal, team, or business information.
 
-How to Get Started:
+𝗛𝗼𝘄 𝘁𝗼 𝗚𝗲𝘁 𝗦𝘁𝗮𝗿𝘁𝗲𝗱:
 
-Clone the repository.
+𝗖𝗹𝗼𝗻𝗲 𝘁𝗵𝗲 𝗿𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆.
 Follow our detailed documentation to create and customize your profile cards.
 Easily integrate the generated code into your website's pages.
 Benefits:
